@@ -1,2 +1,2 @@
-Home for the repositories of [Rudji Games](http://rudji.com)
+Home for the repositories of [Rudji Games](https://rudji.com)
 
